@@ -1,0 +1,8 @@
+name: Subterranea
+version: "1.8.6-R0.1"
+author: Ryan Michela
+main: com.ryanmichela.subterranea.SPlugin
+prefix: "Subterranea"
+load: STARTUP
+loadbefore: [ Multiverse-Core, MyWorlds ]
+softdepend: [ GiantCaves ]
