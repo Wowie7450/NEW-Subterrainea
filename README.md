@@ -1,3 +1,5 @@
+DISCLAIMER: I did not make this to begin with! I am simply updating this plugin to the latest version of craftbukkit that I can find, and hosting it on GitHub. All of the credit for making this plugin goes to Ryan Michela (deltahat@gmail.com).
+=================================
 Overview
 ========
 Subterranea is a modification of the Vanilla terrain generator that switches the above and below ground 
